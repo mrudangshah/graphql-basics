@@ -1,0 +1,8 @@
+query{
+  getCourse(id:"3ifWNJebuloTXYIrolVKy"){
+    id
+    teachingAssists{
+      experience
+    }
+  }
+}
